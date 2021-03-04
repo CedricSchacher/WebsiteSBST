@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08bd04a5-03a2-4a6e-94b6-ddd90068aac0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oMcqqbQ8MWTRybW3rPBpnUCgrS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08bd04a5-03a2-4a6e-94b6-ddd90068aac0" name="Default Changelist" comment="" />
+      <created>1613100096679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613100096679</updated>
+      <workItem from="1613100099398" duration="1658000" />
+      <workItem from="1613101897341" duration="347000" />
+      <workItem from="1614327012714" duration="38000" />
+      <workItem from="1614871445436" duration="1755000" />
+      <workItem from="1614873248784" duration="1765000" />
+      <workItem from="1614875058436" duration="319000" />
+    </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1613100434914</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613100434914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic Layout">
+      <created>1613102236182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613102236182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start" />
+    <MESSAGE value="Basic Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Layout" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613100318001">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="414" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.984@0.0.1920.984" timestamp="1613100318001" />
+    <state x="585" y="60" key="CommitChangelistDialog2" timestamp="1613102233994">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="585" y="60" key="CommitChangelistDialog2/0.0.1920.984@0.0.1920.984" timestamp="1613102233994" />
+    <state x="552" y="225" key="Vcs.Push.Dialog.v2" timestamp="1613102242635">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="552" y="225" key="Vcs.Push.Dialog.v2/0.0.1920.984@0.0.1920.984" timestamp="1613102242635" />
+    <state x="761" y="398" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1613100314257">
+      <screen x="0" y="0" width="1920" height="984" />
+    </state>
+    <state x="761" y="398" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.984@0.0.1920.984" timestamp="1613100314257" />
+    <state x="135" y="207" width="672" height="678" key="search.everywhere.popup" timestamp="1614872125919">
+      <screen x="0" y="0" width="944" height="968" />
+    </state>
+    <state x="135" y="207" width="672" height="678" key="search.everywhere.popup/0.0.944.968@0.0.944.968" timestamp="1614872125919" />
+  </component>
+</project>
