@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 body{
     display: grid;
     grid-template-columns: 15% auto 15%;
@@ -14,24 +17,71 @@ body{
 
 #div1{
     grid-row: 1;
-    background-color: blue;
+    margin-right: auto;
+    margin-left: auto;
+    display:inline-block;
+    position:relative;
+}
+#div1 img{
+    padding: 5px;
 
+}
+a{
+    text-decoration: none;
+    color: white;
 }
 img{
     z-index: -1;
+    max-width: 100%;
+    max-height: 100%;
+
 }
+
 #div1Menu{
-    position: relative;
-    float: right;
-
-
+    position: absolute;
+    top:5%;
+    right:5%;
+    word-spacing: 15px;
+    color: white;
 }
-#div1Button{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#div1 Button{
+    position: absolute;
+    margin: 0;
+    top:50%;
+    left:50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+}
+#logo{
+    position: absolute;
+    margin: 0;
+    top:3%;
+    left:10%;
+    max-width: 20%;
+    max-height: 20%;
+}
+#firma{
+    color: white;
+    position: absolute;
+    margin: 0;
+    top:20%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+#beschreibung{
+    color: white;
+    position: absolute;
+    margin: 0;
+    top:40%;
+    left:50%;
+    transform: translate(-50%, -50%);
 }
 #div2{
+
     grid-row: 2;
     display: grid;
     grid-template-rows: auto auto;
@@ -75,6 +125,7 @@ h3{
     grid-template-rows: auto auto auto;
 }
 #whoweare{
+    padding: 5px;
     background-color: #f3efeb;
     grid-row: 1;
 }
@@ -85,6 +136,7 @@ h3{
     margin-right: auto;
 }
 #roger{
+    border-top: solid #b5dbf6 1px;
     grid-row: 3;
 }
 #webuild{
@@ -111,6 +163,7 @@ h3{
 
 
 #div4{
+    padding: 5px;
     margin-top: 50px;
     grid-row: 4;
     grid-column: 1;
